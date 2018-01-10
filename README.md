@@ -3,7 +3,7 @@
 This is a base package for any go project which can be used with go-get.
 
 ## Priorities:
- - Abstraction of CLI interface and unimportable main.go
+ - Abstraction of unimportable main.go
  - Subpackages are grouped by dependency.
  - Testing Mock package.
 
